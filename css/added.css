@@ -16,3 +16,21 @@
 .listfont{
     font-size:20px;
 }
+
+.hrmodified{
+    padding-top: 70px;
+}
+
+.resizedplus{
+    max-height: 500px;
+    min-height: 500px;
+    max-width: 400px;
+    min-width: 300px;
+    border-radius: 100px;
+    border: 1px solid;
+    padding: 1px;
+}
+
+.borderadded{
+    border: 1px solid;
+}
