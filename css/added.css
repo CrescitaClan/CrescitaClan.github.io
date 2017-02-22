@@ -34,3 +34,10 @@
 .borderadded{
     border: 1px solid;
 }
+
+.previous{
+    color: red;
+}
+.after{
+    color: springgreen;
+}
