@@ -1,0 +1,18 @@
+.added{
+    background: black;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    border-radius: 60px;
+}
+.resized{
+    max-height: 500px;
+    min-height: 500px;
+    max-width: 400px;
+    min-width: 300px;
+    border-radius: 30px;
+    border: 1px solid;
+    padding: 1px;
+}
+.listfont{
+    font-size:20px;
+}
